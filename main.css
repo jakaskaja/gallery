@@ -1,0 +1,30 @@
+h1{
+    color: purple;
+    font-size: 48px;
+}
+p {
+    font-style: oblique;
+    font-family: Arial;
+    color:gold;
+}
+div#photos {
+    background-color: green;
+    height: 200px;
+}
+div#movies {
+    background-color: red;
+    height: 200px;
+}
+div#photos img {
+    border: 2px solid purple;
+}
+footer {
+    background-color: yellow;
+    height: 300px;
+}
+footer p {
+    color: indigo;
+    font-size: 48px;
+    font-style: italic;
+    font-family: fantasy;
+}
